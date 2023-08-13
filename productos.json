@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Iphone 14 Pro",
+        "description": "128gb Deep Purple",
+        " price": 2000,
+        "thumbnail": [],
+        "code": "P0001",
+        "stock": 25
+    },
+    {
+        "title": "Iphone 13 Pro",
+        "description": "128gb White",
+        " price": 20500,
+        "thumbnail": [],
+        "code": "P0002",
+        "stock": 25
+    }
+]
